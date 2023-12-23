@@ -1,0 +1,7306 @@
+
+[
+
+  {
+    "state_id": 1,
+    "states": "Andaman & Nicobar",
+    "station_id": 43333,
+    "station": "Port Blair"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43128,
+    "station": "Hyderabad"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43150,
+    "station": "Visakhapatnam"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43176,
+    "station": "Amaravati-AP"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 42220,
+    "station": "Passighat"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42410,
+    "station": "Guwahati-Airport"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42314,
+    "station": "Dibrugarh"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42619,
+    "station": "Silchar"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42492,
+    "station": "Patna-Airport"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42591,
+    "station": "Gaya"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42498,
+    "station": "Bhagalpur"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 42874,
+    "station": "Raipur-Lalpur"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 43041,
+    "station": "Jagdalpur"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 42693,
+    "station": "Ambikapur"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 42181,
+    "station": "New Delhi-Palam"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 42182,
+    "station": "New Delhi-Safdarjung"
+  },
+  {
+    "state_id": 8,
+    "states": "Goa",
+    "station_id": 43192,
+    "station": "Panjim"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42647,
+    "station": "Ahmedabad"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42634,
+    "station": "Bhuj"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42737,
+    "station": "Rajkot"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42840,
+    "station": "Surat"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42105,
+    "station": "Chandigarh-City"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42131,
+    "station": "Hisar"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42137,
+    "station": "Karnal"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42103,
+    "station": "Ambala"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 99915,
+    "station": "Kurukshetra"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 99916,
+    "station": "Sirsa"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42083,
+    "station": "Shimla-City"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42062,
+    "station": "Dharamshala"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42066,
+    "station": "Kalpa"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42063,
+    "station": "Keylong"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42065,
+    "station": "Manali"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 8205,
+    "station": "Chamba"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42056,
+    "station": "Jammu-City"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42027,
+    "station": "Srinagar-City"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42439,
+    "station": "Jalore"
+  },
+  {
+    "state_id": 35,
+    "states": "Ladakh UT",
+    "station_id": 42034,
+    "station": "Leh"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42026,
+    "station": "Gulmarg"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42054,
+    "station": "Katra"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42028,
+    "station": "Pahalgam"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 42701,
+    "station": "Ranchi"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 42798,
+    "station": "Jamshedpur"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43295,
+    "station": "Bengaluru-City"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43201,
+    "station": "Gadag"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43121,
+    "station": "Kalaburgi"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43284,
+    "station": "Mangaluru"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43291,
+    "station": "Mysuru"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43353,
+    "station": "Kochi"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43314,
+    "station": "kozhikode"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43371,
+    "station": "Thiruvananthapuram-City"
+  },
+  {
+    "state_id": 16,
+    "states": "Lakshadweep",
+    "station_id": 43369,
+    "station": "Minicoy"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42667,
+    "station": "Bhopal-Arera Hills"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42361,
+    "station": "Gwalior"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42754,
+    "station": "Indore"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42675,
+    "station": "Jabalpur"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42933,
+    "station": "Akola city"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42867,
+    "station": "Nagpur-Sonegaon Airport"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43014,
+    "station": "Aurangabad"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43003,
+    "station": "Mumbai-Santacruz"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42921,
+    "station": "Nasik"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43017,
+    "station": "Parbhani"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43063,
+    "station": "Pune-Shivajinagar"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43117,
+    "station": "Sholapur"
+  },
+  {
+    "state_id": 19,
+    "states": "Mizoram",
+    "station_id": 19001,
+    "station": "Champhai"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42349,
+    "station": "Tonk"
+  },
+  {
+    "state_id": 22,
+    "states": "Meghalaya",
+    "station_id": 42516,
+    "station": "Shillong"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42895,
+    "station": "Balasore"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42971,
+    "station": "Bhubneshwar-Airport"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43049,
+    "station": "Gopalpur"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42886,
+    "station": "Jharsuguda"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42105,
+    "station": "Chandigarh"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42071,
+    "station": "Amritsar"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42099,
+    "station": "Ludhiana"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42101,
+    "station": "Patiala"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 99917,
+    "station": "Anandpur Sahib"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42348,
+    "station": "Jaipur-AMO Jaipur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42452,
+    "station": "Kota"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42328,
+    "station": "Jaisalmer"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42542,
+    "station": "Udaipur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42343,
+    "station": "Ajmer"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42165,
+    "station": "Bikaner"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42339,
+    "station": "Jodhpur"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 42299,
+    "station": "Gangtok"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43279,
+    "station": "Chennai- Meenambakkam"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43321,
+    "station": "Coimbatore"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43377,
+    "station": "Kanyakumari"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43339,
+    "station": "Kodaikanal"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43360,
+    "station": "Madurai"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43344,
+    "station": "Tiruchirapalli"
+  },
+  {
+    "state_id": 28,
+    "states": "Pondicherry",
+    "station_id": 43328,
+    "station": "Pondicherry"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42555,
+    "station": "Jhalawar"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42260,
+    "station": "Agra"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42474,
+    "station": "Prayagraj"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42189,
+    "station": "Bareilly"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42379,
+    "station": "Gorakhpur"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42369,
+    "station": "Lucknow-Airport"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42479,
+    "station": "Varanasi"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42463,
+    "station": "Jhansi"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42139,
+    "station": "Meerut"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42187,
+    "station": "Moradabad"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42366,
+    "station": "Kanpur"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42111,
+    "station": "Dehradun-Mokhampur"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42147,
+    "station": "Mukteshwar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42112,
+    "station": "Mussorie"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42146,
+    "station": "Nainital"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42148,
+    "station": "Pantnagar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99911,
+    "station": "Pithoragarh"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42116,
+    "station": "Joshimath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99912,
+    "station": "Almora"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42403,
+    "station": "Coochbehar"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42503,
+    "station": "Malda"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42807,
+    "station": "Kolkata-Alipore"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42708,
+    "station": "Sriniketan"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43213,
+    "station": "Kurnool"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43086,
+    "station": "Ramagundam"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43275,
+    "station": "Tirupathi"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42031,
+    "station": "Kupwara"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42044,
+    "station": "Qazigund"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42045,
+    "station": "Banihal"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42043,
+    "station": "Batote"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42048,
+    "station": "Bhaderwah"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42106,
+    "station": "Solan"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42081,
+    "station": "Kullu"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42079,
+    "station": "Sundernagar"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42075,
+    "station": "Jalandhar"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42057,
+    "station": "Pathankot"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42097,
+    "station": "Bhatinda"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42176,
+    "station": "Rohtak"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42177,
+    "station": "Narnaul"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42350,
+    "station": "Bhiwani"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 42178,
+    "station": "Gurgaon"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42375,
+    "station": "Sultanpur"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42273,
+    "station": "Bahraich"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42262,
+    "station": "Aligarh"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42123,
+    "station": "Sriganganagar"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42435,
+    "station": "Barmer"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42170,
+    "station": "Churu"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42540,
+    "station": "Mount Abu"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42731,
+    "station": "Dwarka"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42909,
+    "station": "Veraval"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42748,
+    "station": "Baroda"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42539,
+    "station": "Deesa"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42631,
+    "station": "Naliya"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42830,
+    "station": "Porbandar"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42567,
+    "station": "Khajuraho"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42662,
+    "station": "Ujjain"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42559,
+    "station": "Guna"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42767,
+    "station": "Pachmarhi"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42571,
+    "station": "Satna"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 60002,
+    "station": "Bilaspur"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 42876,
+    "station": "Durg"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 42779,
+    "station": "Pendra"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42387,
+    "station": "Muzaffarpur"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42500,
+    "station": "Purnea"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42450,
+    "station": "Bundi"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42488,
+    "station": "Chapra"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 42587,
+    "station": "Daltonganj"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42399,
+    "station": "Jalpaiguri"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42711,
+    "station": "Krishnanagar"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42603,
+    "station": "Baharampur"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42707,
+    "station": "Bankura"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42901,
+    "station": "Digha"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42406,
+    "station": "Dhubri"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42423,
+    "station": "Jorhat"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42309,
+    "station": "North Lakhimpur"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42415,
+    "station": "Tezpur"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43053,
+    "station": "Puri"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42883,
+    "station": "Sambalpur"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42976,
+    "station": "Paradip"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42969,
+    "station": "Angul"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42970,
+    "station": "Bhubneshwar-Cuttack"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42961,
+    "station": "Titlagarh"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43097,
+    "station": "Koraput"
+  },
+  {
+    "state_id": 19,
+    "states": "Mizoram",
+    "station_id": 42727,
+    "station": "Aizwal-Lengpui"
+  },
+  {
+    "state_id": 29,
+    "states": "Tripura",
+    "station_id": 42618,
+    "station": "Kailashahar"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43237,
+    "station": "Anantapur"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43081,
+    "station": "Nizamabad"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43189,
+    "station": "Kakinada"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43245,
+    "station": "Nellore"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42114,
+    "station": "Tehri"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99918,
+    "station": "Haridwar"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43325,
+    "station": "Salem"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43303,
+    "station": "Vellore"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43363,
+    "station": "Pamban"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43347,
+    "station": "Nagapattinam"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43315,
+    "station": "Kannur"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43355,
+    "station": "Kottayam"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43233,
+    "station": "Chitradurga"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43198,
+    "station": "Belagavi"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43226,
+    "station": "Honnavar"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43161,
+    "station": "Vijayapura"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42354,
+    "station": "Dholpur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42655,
+    "station": "Banswada"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43287,
+    "station": "Madikeri"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43205,
+    "station": "Ballari"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43169,
+    "station": "Raichur"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43263,
+    "station": "Hassan"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42925,
+    "station": "Malegaon"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42851,
+    "station": "Jalgaon"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43111,
+    "station": "Mahabaleshwar"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43113,
+    "station": "Satara"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43158,
+    "station": "Sangli"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43110,
+    "station": "Ratnagiri"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43001,
+    "station": "Dahanu"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43109,
+    "station": "Harnai"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43021,
+    "station": "Nanded"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42242,
+    "station": "Nagaur"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42871,
+    "station": "Gondia"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42943,
+    "station": "Yeotmal"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43029,
+    "station": "Chandrapur"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 42184,
+    "station": "New Delhi-Ridge"
+  },
+  {
+    "state_id": 16,
+    "states": "Lakshadweep",
+    "station_id": 43311,
+    "station": "Amini Divi"
+  },
+  {
+    "state_id": 16,
+    "states": "Lakshadweep",
+    "station_id": 43266,
+    "station": "Agati"
+  },
+  {
+    "state_id": 16,
+    "states": "Lakshadweep",
+    "station_id": 43337,
+    "station": "Kavarati"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 42217,
+    "station": "Gangtok-Tadong"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 42308,
+    "station": "Itanagar"
+  },
+  {
+    "state_id": 22,
+    "states": "Meghalaya",
+    "station_id": 42515,
+    "station": "Cherrapunji"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42174,
+    "station": "Pilani"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 42046,
+    "station": "Kukernag"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42077,
+    "station": "Una"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42080,
+    "station": "Bilaspur"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42104,
+    "station": "Nahan"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42096,
+    "station": "Ferozepore"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 42074,
+    "station": "Kapurthala"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42374,
+    "station": "Faizabad"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42372,
+    "station": "Fursatganj"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42473,
+    "station": "Banda"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42271,
+    "station": "Hardoi"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42249,
+    "station": "Siker"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42108,
+    "station": "Uttarkashi"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42258,
+    "station": "Bharatpur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42453,
+    "station": "Sawai Madhopur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42447,
+    "station": "Bhilwara"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42546,
+    "station": "Chittorgarh"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 42255,
+    "station": "Alwar"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42639,
+    "station": "Kandla"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42834,
+    "station": "Amreli"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42838,
+    "station": "Bhavnagar"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42730,
+    "station": "Okha"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42651,
+    "station": "Idar"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42671,
+    "station": "Sagar"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42574,
+    "station": "Rewa"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42771,
+    "station": "Seoni"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42855,
+    "station": "Khandwa"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42860,
+    "station": "Betul"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42679,
+    "station": "Umaria"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 42948,
+    "station": "Rajnandgaon"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42395,
+    "station": "Farbesganj"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42383,
+    "station": "Motihari"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 42393,
+    "station": "Supaul"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 42599,
+    "station": "Dumka"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 42795,
+    "station": "Chaibasa"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42709,
+    "station": "Burdwan"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42704,
+    "station": "Asansol"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42811,
+    "station": "Diamond Harbour"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42803,
+    "station": "Midnapore"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42293,
+    "station": "Darjeeling"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42420,
+    "station": "Golaghat"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42407,
+    "station": "Goalpara"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42317,
+    "station": "Tinsukia"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42413,
+    "station": "Mazbat"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42523,
+    "station": "Lumding"
+  },
+  {
+    "state_id": 21,
+    "states": "Nagaland",
+    "station_id": 42527,
+    "station": "Kohima"
+  },
+  {
+    "state_id": 29,
+    "states": "Tripura",
+    "station_id": 42724,
+    "station": "Agartala"
+  },
+  {
+    "state_id": 20,
+    "states": "Manipur",
+    "station_id": 42623,
+    "station": "Imphal"
+  },
+  {
+    "state_id": 19,
+    "states": "Mizoram",
+    "station_id": 42726,
+    "station": "Aizwal"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42973,
+    "station": "Chandbali"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42966,
+    "station": "Pulbani"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42891,
+    "station": "Keonjhargarh"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43185,
+    "station": "Machilipatnam"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42881,
+    "station": "Dhenkanal"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43221,
+    "station": "Ongole"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43105,
+    "station": "Kalingapatnam"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43241,
+    "station": "Cuddappah"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43087,
+    "station": "Hanamkonda"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43318,
+    "station": "Coonoor"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43361,
+    "station": "Tondi"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43376,
+    "station": "Palayankottai"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43301,
+    "station": "Dharmapuri"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43346,
+    "station": "Karaikal"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43352,
+    "station": "Alappuzha"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43354,
+    "station": "Punalur"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43225,
+    "station": "Karwar"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43289,
+    "station": "Mandya"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43257,
+    "station": "Agumbe"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43076,
+    "station": "Udgir"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43058,
+    "station": "Alibag"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43009,
+    "station": "Ahmednagar"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42776,
+    "station": "Mandla"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42931,
+    "station": "Buldhana"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42937,
+    "station": "Amravati"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42939,
+    "station": "Wardha"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43193,
+    "station": "Vengurla"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 42180,
+    "station": "New Delhi-Ayanagar"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 11001,
+    "station": "Hamirpur"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 10001,
+    "station": "Faridabad"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 30051,
+    "station": "Shahjahanpur"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 31001,
+    "station": "Champawat"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 60001,
+    "station": "Janjgir"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 50001,
+    "station": "Madhubani"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 50002,
+    "station": "Nalanda"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 50003,
+    "station": "Aurangabad"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 50004,
+    "station": "Rajgir"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 13001,
+    "station": "Bokaro"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 13002,
+    "station": "Deogarh"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 13003,
+    "station": "Giridih"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 26001,
+    "station": "Mangan"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 26002,
+    "station": "Gyalsingh"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 26003,
+    "station": "Namchi"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 40001,
+    "station": "Barpeta"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 30001,
+    "station": "Tawang"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 30002,
+    "station": "Anni"
+  },
+  {
+    "state_id": 21,
+    "states": "Nagaland",
+    "station_id": 21001,
+    "station": "Kohima-Dimapur"
+  },
+  {
+    "state_id": 21,
+    "states": "Nagaland",
+    "station_id": 21002,
+    "station": "Mokokchung"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 23001,
+    "station": "Bhabanipatna"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 18001,
+    "station": "Thane"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 30052,
+    "station": "Muzaffarnagar"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43157,
+    "station": "Kolhapur"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43011,
+    "station": "Beed"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43075,
+    "station": "Osmanabad"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43071,
+    "station": "Jeur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 99919,
+    "station": "Hanumangarh"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 99920,
+    "station": "Pali"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 99921,
+    "station": "New Delhi-Delhi University"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 99922,
+    "station": "New Delhi-Narela"
+  },
+  {
+    "state_id": 34,
+    "states": "Diu",
+    "station_id": 42914,
+    "station": "Diu"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42459,
+    "station": "Shivpuri"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 42752,
+    "station": "Dhar"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 99928,
+    "station": "Chandigarh- Airport"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 99929,
+    "station": "Chandigarh-Panchkula"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 99928,
+    "station": "Chandigarh Airport"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 99933,
+    "station": "Hyderabad-Hakimpet"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 99930,
+    "station": "Chandigarh-Mohali"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 99931,
+    "station": "Hyderabad-Rajinder Nagar"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 99932,
+    "station": "Hyderabad-Hayathnagar"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 99934,
+    "station": "Hyderabad-Icrisat Patancheru"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42805,
+    "station": "Kolkata-Howrah"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42809,
+    "station": "Kolkata-Dum Dum"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42816,
+    "station": "Kolkata-Salt Lake"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43064,
+    "station": "Pune-Lohegaon Airport"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43067,
+    "station": "Pune-Pashan"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99935,
+    "station": "Ahmedabad-Airport"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99936,
+    "station": "Ahmedabad-Navrangpura (S.P.Stadium)"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99937,
+    "station": "Ahmedabad-Rakhiyal"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99938,
+    "station": "Ahmedabad-Chandkheda"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99939,
+    "station": "Ahmedabad-Satellite Area (ISRO-SAC)"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 43057,
+    "station": "Mumbai-Colaba"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99940,
+    "station": "Navi Mumbai (Panvel)"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99941,
+    "station": "Mumbai-Borivali"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99942,
+    "station": "Mumbai-Powai"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99943,
+    "station": "Mumbai-Chembur"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99944,
+    "station": "Mumbai-Mulund"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99945,
+    "station": "Mumbai-Worli"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43278,
+    "station": "Chennai-Nungambakkam"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 99946,
+    "station": "Thiruvallikeni"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 99947,
+    "station": "Chennai-Madhavaram"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 99948,
+    "station": "Chennai-Ennore"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 99949,
+    "station": "Bhubneshwar-OUAT"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 99950,
+    "station": "Ranchi-Kanke"
+  },
+  {
+    "state_id": 1,
+    "states": "Andaman & Nicobar",
+    "station_id": 43309,
+    "station": "Maya Bandar"
+  },
+  {
+    "state_id": 1,
+    "states": "Andaman & Nicobar",
+    "station_id": 43367,
+    "station": "Carnicobar"
+  },
+  {
+    "state_id": 1,
+    "states": "Andaman & Nicobar",
+    "station_id": 43382,
+    "station": "Nancowrie"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99951,
+    "station": "Dehradun-Karanpur"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43296,
+    "station": "Bengaluru-HAL Airport"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99953,
+    "station": "Dehradun-Sahastradhara"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99954,
+    "station": "Dehradun-Asharori"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99955,
+    "station": "Dehradun-UCOST"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99956,
+    "station": "Ahmedabad-Ambli-Bopal"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99957,
+    "station": "Ahmedabad-Raikhad"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99958,
+    "station": "Ahmedabad-Pirana"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99959,
+    "station": "Ahmedabad-IIPH,Gandhi Nagar"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99960,
+    "station": "Ahmedabad-Gift City, Gandhi Nagar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 88829,
+    "station": "Kausani"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 99962,
+    "station": "Bengaluru-International Airport"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 99963,
+    "station": "Bengaluru-GKVK"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 99964,
+    "station": "Dadra Nagar Haveli"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 90027,
+    "station": "Udhampur"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 99966,
+    "station": "Jaipur-Vaishali Nagar"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 99967,
+    "station": "Jaipur-Transport Nagar"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 99968,
+    "station": "Jaipur-Collectorate Circle"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 99969,
+    "station": "Jaipur-Amer"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 99970,
+    "station": "Lucknow-Hanuman Setu"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 99971,
+    "station": "Lucknow-Control Room"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 99972,
+    "station": "Lucknow-Malihabad"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 99973,
+    "station": "Lucknow-Mohanlalganj"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 99974,
+    "station": "Raipur-Labhandi"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99975,
+    "station": "Srinagar-Airport"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99976,
+    "station": "Srinagar-Dal Lake"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 99977,
+    "station": "Bhopal-Airport"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 99978,
+    "station": "Bhopal-Nabi Bagh"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 99979,
+    "station": "Guwahati-Dispur"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99982,
+    "station": "Nagpur-College of Agriculture"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99980,
+    "station": "Jammu-Mata Vaishno Devi ji"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99981,
+    "station": "Jammu-Airport"
+  },
+  {
+    "state_id": 8,
+    "states": "Goa",
+    "station_id": 99983,
+    "station": "Panjim-Pernem"
+  },
+  {
+    "state_id": 8,
+    "states": "Goa",
+    "station_id": 99984,
+    "station": "Panjim-Mapusa"
+  },
+  {
+    "state_id": 8,
+    "states": "Goa",
+    "station_id": 99985,
+    "station": "Panjim-Old Goa"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 99986,
+    "station": "Patna-City"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43181,
+    "station": "Amaravati-Gannavaram"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 99987,
+    "station": "Guwahati-IIT Guwahati"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 99952,
+    "station": "Dehradun-Jhajhara"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 42872,
+    "station": "Raipur-Mana"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42084,
+    "station": "Shimla-Airport"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 43372,
+    "station": "Thiruvananthapuram- Airport"
+  },
+  {
+    "state_id": 35,
+    "states": "Ladakh UT",
+    "station_id": 99990,
+    "station": "Gilgit"
+  },
+  {
+    "state_id": 35,
+    "states": "Ladakh UT",
+    "station_id": 99991,
+    "station": "Skardu"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99992,
+    "station": "Chilas"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99993,
+    "station": "Kharmang"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99994,
+    "station": "Khaplu"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99995,
+    "station": "Hunza"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99996,
+    "station": "Muzaffarabad"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43200,
+    "station": "Dharwad"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43025,
+    "station": "Adilabad"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43136,
+    "station": "Bhadrachalam"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43137,
+    "station": "Khammam"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43168,
+    "station": "Mahabubnagar"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43083,
+    "station": "Medak"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 43133,
+    "station": "Nalgonda"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 99997,
+    "station": "Dindigul IAF"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99998,
+    "station": "Shigar"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 99999,
+    "station": "Ghizer"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88801,
+    "station": "Astore"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88802,
+    "station": "Nagar"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88803,
+    "station": "Mirpur"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88804,
+    "station": "Kotli"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88805,
+    "station": "Hattian (Jhelum Valley)"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88806,
+    "station": "Bagh"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88807,
+    "station": "Bhimbar"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88808,
+    "station": "Nilam"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43187,
+    "station": "Narasapur"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43243,
+    "station": "Kavali"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43220,
+    "station": "Bapatla"
+  },
+  {
+    "state_id": 2,
+    "states": "Andhra Pradesh",
+    "station_id": 43147,
+    "station": "Tuni"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 99925,
+    "station": "Warangal"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42397,
+    "station": "Siliguri"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90001,
+    "station": "Augustmuni"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90002,
+    "station": "Badrinath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90005,
+    "station": "Chamba (Ranichauri)"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90006,
+    "station": "Chinyalisour"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90007,
+    "station": "Devprayag"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90008,
+    "station": "Gangotri"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90009,
+    "station": "Gauchar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90010,
+    "station": "Govind Ghat"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90011,
+    "station": "Harsil"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90012,
+    "station": "Sri Hemkunt Sahib"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90014,
+    "station": "Rishikesh"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90015,
+    "station": "Rudraprayag"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90016,
+    "station": "Soneprayag"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90017,
+    "station": "Srinagar (Uttrakhand)"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90018,
+    "station": "Ukhimath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90019,
+    "station": "Yamunotri"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 90020,
+    "station": "Anantnag"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 90023,
+    "station": "Gund"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90030,
+    "station": "Lakhamandal"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 99926,
+    "station": "Gautam Budhnagar"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 99927,
+    "station": "Ghaziabad"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90004,
+    "station": "Bhatwari"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90013,
+    "station": "Nainbagh"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 43340,
+    "station": "Yercaud"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 88809,
+    "station": "Kancheepuram"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 88810,
+    "station": "Mahabalipuram"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 88811,
+    "station": "Ramanathapuram"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 88812,
+    "station": "Thiruvannamalai"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42059,
+    "station": "Dalhousie"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 42076,
+    "station": "Kangra"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 88814,
+    "station": "Kasauli"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 88815,
+    "station": "Spiti Valley"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42916,
+    "station": "Daman"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 88816,
+    "station": "Silvassa"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 88817,
+    "station": "Sasan Gir"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 88818,
+    "station": "Patan"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 88819,
+    "station": "Junagarh"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 88820,
+    "station": "Badami"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 43125,
+    "station": "Bidar"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 88821,
+    "station": "Gokarna"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 88822,
+    "station": "Hampi"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 42296,
+    "station": "Kalimpong"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 88823,
+    "station": "Bishnupur"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 88824,
+    "station": "Sunderban"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 88825,
+    "station": "Kaziranga"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 42311,
+    "station": "Sibsagar"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 88827,
+    "station": "Nalbari"
+  },
+  {
+    "state_id": 4,
+    "states": "Assam",
+    "station_id": 88826,
+    "station": "Nagaon"
+  },
+  {
+    "state_id": 19,
+    "states": "Mizoram",
+    "station_id": 88828,
+    "station": "Lunglei"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 88830,
+    "station": "Kedarnath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 88831,
+    "station": "Lansdowne"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 90059,
+    "station": "Kumarakom"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 90060,
+    "station": "Munnar"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 90141,
+    "station": "Pusa"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 90142,
+    "station": "Jafarpur"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 90143,
+    "station": "Mungeshpur"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 90144,
+    "station": "Najafgarh"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 90145,
+    "station": "Pitampura"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 90146,
+    "station": "Salwan Public School"
+  },
+  {
+    "state_id": 7,
+    "states": "Delhi",
+    "station_id": 99923,
+    "station": "New Delhi-Lodi Road"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 30026,
+    "station": "Baidyanath Dham"
+  },
+  {
+    "state_id": 5,
+    "states": "Bihar",
+    "station_id": 30027,
+    "station": "Bodhgaya"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 42117,
+    "station": "Chamoli"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 30022,
+    "station": "Shekhawati"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 30013,
+    "station": "Orchha"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 30012,
+    "station": "Chitrakoot"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 30014,
+    "station": "Sanchi"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 30015,
+    "station": "Igatpuri"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 30017,
+    "station": "Rameshwaram"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 30016,
+    "station": "mamallapuram"
+  },
+  {
+    "state_id": 35,
+    "states": "Ladakh UT",
+    "station_id": 30003,
+    "station": "Diskit Nubra"
+  },
+  {
+    "state_id": 35,
+    "states": "Ladakh UT",
+    "station_id": 88832,
+    "station": "Kargil"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 30025,
+    "station": "Panipat"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 99988,
+    "station": "Baramati"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 90003,
+    "station": "Barkot"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 30006,
+    "station": "Ooty"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 40062,
+    "station": "Tapovan"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 53,
+    "station": "Kanpur Airforce"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42367,
+    "station": "Kanpur Barra"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42483,
+    "station": "Varanasi BHU"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42381,
+    "station": "Azamgarh"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 90188,
+    "station": "Khushinagar"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42384,
+    "station": "Ballia"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42143,
+    "station": "Bijnor"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42364,
+    "station": "Etawah"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42469,
+    "station": "Hamirpur"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42265,
+    "station": "Mainpuri"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42270,
+    "station": "Lakhimpur Kheri"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 42370,
+    "station": "Barabanki"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42894,
+    "station": "Baripada"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42792,
+    "station": "Sundergarh"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42882,
+    "station": "Sonepur"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42964,
+    "station": "Boudh"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42972,
+    "station": "Nayagarh"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43091,
+    "station": "Malkangiri"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43045,
+    "station": "Rayagada"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43102,
+    "station": "Paralakhemundi"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 10002,
+    "station": "Bhadrak (Ranital)"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 101013,
+    "station": "KAMENG-Tenga Dam"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100246,
+    "station": "KAWARADHA"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100251,
+    "station": "RAJIM"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100250,
+    "station": "PATELPALI RAIGARH"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100249,
+    "station": "NAVAPARA"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100248,
+    "station": "MUNGELI"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100244,
+    "station": "BHATAPARA"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100242,
+    "station": "SIMLAPAL"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100243,
+    "station": "BALOD"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100247,
+    "station": "KURUD"
+  },
+  {
+    "state_id": 6,
+    "states": "Chhatisgarh",
+    "station_id": 100245,
+    "station": "DHAMTARI"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 100252,
+    "station": "HIMMATNAGAR"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 100253,
+    "station": "VADALI APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100276,
+    "station": "JULANA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100267,
+    "station": "GOHANA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100268,
+    "station": "HODAL"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100269,
+    "station": "INDRI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100270,
+    "station": "ISMAILABAD"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100271,
+    "station": "ISRANA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100281,
+    "station": "KOSLI APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100272,
+    "station": "JAGADHRI APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100277,
+    "station": "KAITHAL"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100273,
+    "station": "JAKHAL"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100274,
+    "station": "JHAJJAR"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100275,
+    "station": "JIND"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100266,
+    "station": "GANAUR"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100293,
+    "station": "PAI APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100297,
+    "station": "PILLUKHERA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100296,
+    "station": "PEHOWA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100295,
+    "station": "PANCHKULA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100294,
+    "station": "PALWAL"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100292,
+    "station": "NUH APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100291,
+    "station": "NISSING"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100290,
+    "station": "NIGDHU APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100289,
+    "station": "NARWANA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100288,
+    "station": "NARNAUND"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100287,
+    "station": "NARAINGARH APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100286,
+    "station": "MULLANA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100285,
+    "station": "MOHINDERGARH APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100284,
+    "station": "MEHAM APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100283,
+    "station": "MADLAUDA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100282,
+    "station": "LADWA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100299,
+    "station": "PUNHANA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100278,
+    "station": "KALANWALI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100298,
+    "station": "PUNDRI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100265,
+    "station": "FEROZPUR JHIRKA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100305,
+    "station": "SAFIDON"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100280,
+    "station": "KANINA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100279,
+    "station": "KALAYAT"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100306,
+    "station": "SAMALKHA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100312,
+    "station": "TOHANA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100307,
+    "station": "SHAHBAD"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100308,
+    "station": "SHAHZADPUR APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100309,
+    "station": "SIWANI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100310,
+    "station": "SONEPAT"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100311,
+    "station": "TAURU APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100313,
+    "station": "UCHANA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100314,
+    "station": "UKLANA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100315,
+    "station": "YAMUNA NAGAR APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100304,
+    "station": "SADHAURA APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100303,
+    "station": "REWARI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100264,
+    "station": "FATEHABAD"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100263,
+    "station": "ELLANABAD"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100262,
+    "station": "DHAND"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100261,
+    "station": "DABWALI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100260,
+    "station": "CHHACHHRAULI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100259,
+    "station": "CHEEKA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100258,
+    "station": "CH DADRI"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100256,
+    "station": "ATELI APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100255,
+    "station": "ASANDH"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100254,
+    "station": "ADAMPUR"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100300,
+    "station": "RAIPUR RANI APMC"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100301,
+    "station": "RANIA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100302,
+    "station": "RATIA"
+  },
+  {
+    "state_id": 10,
+    "states": "Haryana",
+    "station_id": 100257,
+    "station": "BHATTU KALAN APMC"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 100316,
+    "station": "NARWAL"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 100317,
+    "station": "PARIMPORA SGR"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 30004,
+    "station": "Patanitop"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100011,
+    "station": "SIMDEGA"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100010,
+    "station": "SAHEBGANJ"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100009,
+    "station": "Ramgarh"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100008,
+    "station": "PAKUR"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100007,
+    "station": "LOHARDAGA"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100005,
+    "station": "HAZARIBAGH"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100004,
+    "station": "GUMLA"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100003,
+    "station": "GARHWA"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100002,
+    "station": "DHANBAD"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100001,
+    "station": "CHAKULIA"
+  },
+  {
+    "state_id": 13,
+    "states": "Jharkhand",
+    "station_id": 100006,
+    "station": "KODERMA"
+  },
+  {
+    "state_id": 14,
+    "states": "Karnataka",
+    "station_id": 100012,
+    "station": "APMC CHINCHOLI"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 30007,
+    "station": "Bekal"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 30008,
+    "station": "Kollam"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 90061,
+    "station": "Vellanikara"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 30010,
+    "station": "Varkala"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 30011,
+    "station": "Wayanand"
+  },
+  {
+    "state_id": 15,
+    "states": "Kerala",
+    "station_id": 30029,
+    "station": "Palakkad"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100329,
+    "station": "GADARWARA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100330,
+    "station": "HARDA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100331,
+    "station": "ITARSI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100332,
+    "station": "JAORA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100333,
+    "station": "KATNI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100334,
+    "station": "KHARGONE"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100335,
+    "station": "KHATEGAON"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100336,
+    "station": "KHIRKIYA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100328,
+    "station": "DATIA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100327,
+    "station": "DAMOH"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100326,
+    "station": "DABRA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100318,
+    "station": "AGAR"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100319,
+    "station": "ASHTA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100320,
+    "station": "BALAGHAT"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100321,
+    "station": "BARELI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100322,
+    "station": "BIAORA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100323,
+    "station": "BINA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100324,
+    "station": "BURHANPUR"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100325,
+    "station": "CHHINDWARA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100337,
+    "station": "KRISHI UPAJ MANDI SAMITI-ANJAD"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100338,
+    "station": "KRISHI UPAJ MANDI SAMITI-BADWAHA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100352,
+    "station": "NEEMUCH"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100353,
+    "station": "PIPARIYA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100354,
+    "station": "RATLAM"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100355,
+    "station": "SENDHWA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100356,
+    "station": "SHAJAPUR"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100357,
+    "station": "SHEOPURKALAN"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100358,
+    "station": "SHUJALPUR"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100359,
+    "station": "TIKAMGARH"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100360,
+    "station": "TIMARNI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100351,
+    "station": "MHOW"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100350,
+    "station": "MANDSAUR"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100349,
+    "station": "KRISHI UPAJ MANDI SAMITI-UDAIPURA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100339,
+    "station": "KRISHI UPAJ MANDI SAMITI-BANAPURA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100340,
+    "station": "KRISHI UPAJ MANDI SAMITI-BHIKANGAON"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100341,
+    "station": "KRISHI UPAJ MANDI SAMITI-KARELI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100342,
+    "station": "KRISHI UPAJ MANDI SAMITI-KARHI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100343,
+    "station": "KRISHI UPAJ MANDI SAMITI-KUKSHI"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100344,
+    "station": "KRISHI UPAJ MANDI SAMITI-NASRULLAGANJ"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100345,
+    "station": "KRISHI UPAJ MANDI SAMITI-PANDHURNA"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100346,
+    "station": "KRISHI UPAJ MANDI SAMITI-SANAWAD"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100347,
+    "station": "KRISHI UPAJ MANDI SAMITI-SAUNSAR"
+  },
+  {
+    "state_id": 17,
+    "states": "Madhya Pradesh",
+    "station_id": 100348,
+    "station": "KRISHI UPAJ MANDI SAMITI-SINGRAULI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100385,
+    "station": "YEOLA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100384,
+    "station": "WASHIM"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100383,
+    "station": "VARORA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100382,
+    "station": "SINDI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100381,
+    "station": "RISOD"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100380,
+    "station": "NANDURBAR"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42947,
+    "station": "Gadchiroli"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100547,
+    "station": "JALNA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100548,
+    "station": "PARTUR"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100549,
+    "station": "TUMSAR"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 31002,
+    "station": "Chinchwad"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 31003,
+    "station": "Magarpatta"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 31004,
+    "station": "Lavale"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42946,
+    "station": "Brahmapuri"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 42935,
+    "station": "Washim"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100188,
+    "station": "HINGOLI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100379,
+    "station": "MANORA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100378,
+    "station": "MANGRULPEER"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100361,
+    "station": "AATPADI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100362,
+    "station": "AHERI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100363,
+    "station": "AMALNER"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100369,
+    "station": "CHIKHALI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100364,
+    "station": "ARJUNI MORGOAN"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100365,
+    "station": "AUSA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100366,
+    "station": "BARAMATI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100367,
+    "station": "CHAMORSHI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100368,
+    "station": "CHANDVAD"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100370,
+    "station": "DEVALA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100377,
+    "station": "MANGALWEDHA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100376,
+    "station": "LONAND"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100375,
+    "station": "KANNAD"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100374,
+    "station": "GEVRAI"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100373,
+    "station": "DOUND"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100372,
+    "station": "DONDAICHA"
+  },
+  {
+    "state_id": 18,
+    "states": "Maharashtra",
+    "station_id": 100371,
+    "station": "DIGRAS"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100404,
+    "station": "NIMAPARA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100405,
+    "station": "PADAMPUR OD"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100406,
+    "station": "PANPOSH"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100407,
+    "station": "PARALAKHEMUNDI"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100408,
+    "station": "RAYAGADA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100409,
+    "station": "TIKABALI"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100410,
+    "station": "UDALA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 93258,
+    "station": "NABARANGPUR"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100402,
+    "station": "MALKANGIRI"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100401,
+    "station": "KUCHINDA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100393,
+    "station": "BONAI"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100390,
+    "station": "BARIPADA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 93255,
+    "station": "DEOGARH"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100392,
+    "station": "BHADRAK"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100395,
+    "station": "DUNGURIPALI"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100391,
+    "station": "BETNOTI"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 93256,
+    "station": "BARGARH"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100388,
+    "station": "BALUGAON"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100387,
+    "station": "BAHADAJHOLA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 93261,
+    "station": "KENDRAPARA"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 93252,
+    "station": "JAJPUR"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 93260,
+    "station": "JAGATSINGHPUR"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100396,
+    "station": "GUNUPUR"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100386,
+    "station": "ANANDAPUR"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 100399,
+    "station": "JALESWAR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100432,
+    "station": "RAMPURA PHUL"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100431,
+    "station": "RAMAN APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100433,
+    "station": "ROPAR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100434,
+    "station": "SANGRUR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100436,
+    "station": "TAPPA"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100437,
+    "station": "TARN TARAN APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100418,
+    "station": "FATHEGARH SAHIB"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100435,
+    "station": "SARDULGARH APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100430,
+    "station": "NAWANSHAHR MARKET"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100429,
+    "station": "MUKTSAR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100428,
+    "station": "MOGA APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100423,
+    "station": "KHANNA APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100412,
+    "station": "ABOHAR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100413,
+    "station": "AMLOH APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100414,
+    "station": "BARNALA"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100415,
+    "station": "BHIKHI APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100416,
+    "station": "BUDHLADA APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100417,
+    "station": "FARIDKOT APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100419,
+    "station": "FAZILKA"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100420,
+    "station": "GIDDERBAHA"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100421,
+    "station": "GURDASPUR APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100422,
+    "station": "HOSHIYARPUR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100425,
+    "station": "MALOUT APMC"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100426,
+    "station": "MANSA"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100427,
+    "station": "MAUR"
+  },
+  {
+    "state_id": 24,
+    "states": "Punjab",
+    "station_id": 100424,
+    "station": "KOTKAPURA APMC"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100065,
+    "station": "KESHORAIPATAN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100081,
+    "station": "MANDAWARI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100082,
+    "station": "MERTA CITY"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100083,
+    "station": "NADBAI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100084,
+    "station": "NAGAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100085,
+    "station": "NAWALGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100086,
+    "station": "NEEM KA THANA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100087,
+    "station": "NIMBAHERA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100088,
+    "station": "NIWAI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100089,
+    "station": "NOHAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100090,
+    "station": "NOKHA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100091,
+    "station": "PADAMPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100092,
+    "station": "PALSANA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100080,
+    "station": "MANDALGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100079,
+    "station": "MALPURA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100078,
+    "station": "MAHUWA RJ"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100066,
+    "station": "KESRISINGHPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100067,
+    "station": "KHAIRTHAL"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100068,
+    "station": "KHAJUWALA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100069,
+    "station": "KHANPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100070,
+    "station": "KHERLI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100071,
+    "station": "KISHANGARH RENWAL"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100072,
+    "station": "KOTPUTLI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100073,
+    "station": "KUCHAMANCITY"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100074,
+    "station": "LALSOT"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100075,
+    "station": "LOONKARANSAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100076,
+    "station": "M. KISHANGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100077,
+    "station": "MAHUWA MANDAWAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100093,
+    "station": "PHALODI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100094,
+    "station": "PILIBANGA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100095,
+    "station": "PIPARCITY"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100112,
+    "station": "SRI DUNGARGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100113,
+    "station": "SRI MADHOPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100114,
+    "station": "SRI VIJAYNAGAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100115,
+    "station": "SRIGANGANAGAR F AND V"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100116,
+    "station": "SRIKARANPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100117,
+    "station": "SUJANGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100118,
+    "station": "SUMERGANJ"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100119,
+    "station": "SUMERPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100120,
+    "station": "SURAJGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100121,
+    "station": "SURATGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100122,
+    "station": "UNIYARA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100100,
+    "station": "RANI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100111,
+    "station": "SOJAT ROAD"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100110,
+    "station": "SHAHPURA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100109,
+    "station": "SARDAR SHAHAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100096,
+    "station": "PRATAPGARH RJ"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100097,
+    "station": "RAISINGHNAGAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100098,
+    "station": "RAJDHANI MANDI KUKARKHERA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100099,
+    "station": "RAMGANJ MANDI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100101,
+    "station": "RANIWARA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100102,
+    "station": "RATANGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100103,
+    "station": "RAWATSAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100104,
+    "station": "RAWLA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100105,
+    "station": "SADULPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100106,
+    "station": "SADULSHAHAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100107,
+    "station": "SANCHORE"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100108,
+    "station": "SANGARIYA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100027,
+    "station": "BHADRA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100020,
+    "station": "BARAN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100029,
+    "station": "BHINMAL"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100030,
+    "station": "BIJAY NAGAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100031,
+    "station": "BIJOLIYA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100032,
+    "station": "BILARA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100033,
+    "station": "CHABRA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 30021,
+    "station": "Kumbalgarh"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100050,
+    "station": "GAJSINGHPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100550,
+    "station": "RAJSAMAND"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100551,
+    "station": "RIDMALSAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100034,
+    "station": "CHAKSU"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100035,
+    "station": "CHIRAWA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100028,
+    "station": "BHAWANI MANDI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100026,
+    "station": "BEGU"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100025,
+    "station": "BEAWAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100019,
+    "station": "BANDIKUI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100018,
+    "station": "BALOTRA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100017,
+    "station": "BAJJU"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100016,
+    "station": "ATRU"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100015,
+    "station": "ANTA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100014,
+    "station": "ANOOPGARH"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100013,
+    "station": "AABU ROAD"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100021,
+    "station": "BARISADRI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100022,
+    "station": "BARODAMEV"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100023,
+    "station": "BASSI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100024,
+    "station": "BAYANA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100037,
+    "station": "CHOMU F AND V"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100064,
+    "station": "KEKRI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100049,
+    "station": "FATEHPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100036,
+    "station": "CHOMEHLA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100051,
+    "station": "GANGAPUR CITY"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100052,
+    "station": "GANGAPUR-RJ"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100053,
+    "station": "GHARSANA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100055,
+    "station": "GUDA GODJI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100056,
+    "station": "HINDOUN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100057,
+    "station": "IKLERA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100058,
+    "station": "ITAWA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100059,
+    "station": "JAITARAN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100060,
+    "station": "JAITSAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100061,
+    "station": "JHUNJHUNU"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100062,
+    "station": "KAMAN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100063,
+    "station": "KAPASAN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100048,
+    "station": "FATEHNAGAR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100047,
+    "station": "DUNGARPUR"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100038,
+    "station": "CHOMU GRAIN"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100039,
+    "station": "CHOTTISADRI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100040,
+    "station": "DAUSA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100041,
+    "station": "DEEDWANA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100042,
+    "station": "DEEG"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100046,
+    "station": "DOONI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100043,
+    "station": "DEGANA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100054,
+    "station": "GOLUWALA"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100045,
+    "station": "DEOLI"
+  },
+  {
+    "state_id": 25,
+    "states": "Rajasthan",
+    "station_id": 100044,
+    "station": "DEI"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 30024,
+    "station": "Pelling"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 30023,
+    "station": "Lachung"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100457,
+    "station": "KANCHEEPURAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100456,
+    "station": "KAMUTHI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100459,
+    "station": "KUTHALAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100455,
+    "station": "KALLAKURICHI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100460,
+    "station": "LALGUDI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100458,
+    "station": "KILPENNATHUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100461,
+    "station": "MADURAI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100462,
+    "station": "MADURANATHANGAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100463,
+    "station": "MAYILADUTHURAI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100464,
+    "station": "MOOLANUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100465,
+    "station": "MUDHUKALATHUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100466,
+    "station": "NATHAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100467,
+    "station": "ODDANCHATRAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100468,
+    "station": "PALANI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100454,
+    "station": "KALAVAI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100453,
+    "station": "HARUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100440,
+    "station": "ANNUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100439,
+    "station": "ANAIMALAI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100438,
+    "station": "AMMOOR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100442,
+    "station": "ARANI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100443,
+    "station": "AVALURPET"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100444,
+    "station": "CHETPET"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100445,
+    "station": "CHEYYAR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100446,
+    "station": "CUMBUM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100447,
+    "station": "DESUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100448,
+    "station": "DINDIGUL"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100449,
+    "station": "ERODE"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100450,
+    "station": "GINGEE"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100451,
+    "station": "GOBICHETTIPALAYAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100452,
+    "station": "GUDIYATHAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100441,
+    "station": "ANTHIYUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100469,
+    "station": "PANRUTI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100486,
+    "station": "THIYAGADURGAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100487,
+    "station": "TINDIVANAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100488,
+    "station": "UDUMALPET"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100489,
+    "station": "ULUNDURPETTAI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100490,
+    "station": "USILAMPATTI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100491,
+    "station": "VANDAVASI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100492,
+    "station": "VANIYAMBADI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100493,
+    "station": "VELLAKOIL"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100494,
+    "station": "VELLORE"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100496,
+    "station": "VIKIRAVANDI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100497,
+    "station": "VILLUPURAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100552,
+    "station": "NEGAMAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100499,
+    "station": "VIRUDHUNAGAR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100485,
+    "station": "THIRUPPUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100484,
+    "station": "THIRUPATHUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100483,
+    "station": "THIRUKOVILUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100470,
+    "station": "PARAMAKUDI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100471,
+    "station": "PARAMATHI VELUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100472,
+    "station": "PERUNDURAI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100473,
+    "station": "PETHAPPAMPATTI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100474,
+    "station": "POLLACHI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100475,
+    "station": "POLUR"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100476,
+    "station": "RAJAPALAYAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100477,
+    "station": "RAJASINGAMANGALAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100478,
+    "station": "SANKARAPURAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100479,
+    "station": "SATHYAMANGALAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100480,
+    "station": "SEMBANARKOIL"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100481,
+    "station": "SIRKALI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100482,
+    "station": "THENI"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100498,
+    "station": "VIRUDHACHALAM"
+  },
+  {
+    "state_id": 27,
+    "states": "Tamil Nadu",
+    "station_id": 100495,
+    "station": "VETTAVALAM"
+  },
+  {
+    "state_id": 28,
+    "states": "Pondicherry",
+    "station_id": 100411,
+    "station": "THATTANCHAVADY"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100168,
+    "station": "KHURJA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100152,
+    "station": "GHIROR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100151,
+    "station": "FIROZABAD APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100150,
+    "station": "FATEHPUR SIKRI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100149,
+    "station": "FATEHPUR APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100148,
+    "station": "FARRUKHABAD"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100147,
+    "station": "ETAH"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100146,
+    "station": "DEORIA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100145,
+    "station": "DADRI UP"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100144,
+    "station": "CHIBRAMAU"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100143,
+    "station": "CHAUBEPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100142,
+    "station": "CHARRA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100141,
+    "station": "CHANDAUSI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100153,
+    "station": "GOLAGOKARNATH"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100154,
+    "station": "HAPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100167,
+    "station": "KHALILABAD"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100166,
+    "station": "KHAIR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100165,
+    "station": "KASGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100164,
+    "station": "KARWI APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100163,
+    "station": "KANNAUJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100162,
+    "station": "KAIMGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100161,
+    "station": "JAUNPUR APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100160,
+    "station": "JANGIPURA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100159,
+    "station": "JALAUN"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100158,
+    "station": "JALALABAD APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100157,
+    "station": "JAIS"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100156,
+    "station": "HATHRAS"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100155,
+    "station": "HASANPUR APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100140,
+    "station": "CHANDAULI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100139,
+    "station": "BULANDSHAHAR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100123,
+    "station": "ACHHALDA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100172,
+    "station": "MADHOGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100183,
+    "station": "NAWABGANJ APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100561,
+    "station": "SAHARANPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100560,
+    "station": "PILIBHIT"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100559,
+    "station": "NOIDA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100558,
+    "station": "MOHAMADABAD APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100557,
+    "station": "KOPAGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100556,
+    "station": "JAHANGIRABAD"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100555,
+    "station": "GONDA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100554,
+    "station": "AYODHYA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100553,
+    "station": "AMROHA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100124,
+    "station": "ACHNERA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100125,
+    "station": "AJUHA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100126,
+    "station": "AKBARPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100138,
+    "station": "BISALPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100137,
+    "station": "BINDIKI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100136,
+    "station": "BILSI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100135,
+    "station": "BHARUASUMERPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100134,
+    "station": "BHARTHANA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100133,
+    "station": "BASTI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100132,
+    "station": "BANGARMAU"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100131,
+    "station": "BALRAMPUR APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100130,
+    "station": "BADAUN"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100129,
+    "station": "AURAIYA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100128,
+    "station": "ATARRA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100127,
+    "station": "ANAND NAGAR APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 30005,
+    "station": "Mathura Vrindavan"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100201,
+    "station": "SANDILA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100212,
+    "station": "UNNAO APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100200,
+    "station": "SAMBHAL APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100199,
+    "station": "SAHJANWA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100198,
+    "station": "SAHIYAPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100197,
+    "station": "SAFDARGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100196,
+    "station": "SADABAD APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100191,
+    "station": "RAMPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100194,
+    "station": "RATH"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100211,
+    "station": "UJHANI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100210,
+    "station": "TUNDLA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100202,
+    "station": "SHAGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100203,
+    "station": "SHAHBAD HARDOI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100204,
+    "station": "SHAMLI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100205,
+    "station": "SHIKOHABAD"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100206,
+    "station": "SIRSAGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100207,
+    "station": "SITAPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100208,
+    "station": "TIKUNIYA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100209,
+    "station": "TULSIPUR APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100193,
+    "station": "RASRA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100192,
+    "station": "RAMPUR BILASPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100190,
+    "station": "RAE BARELI"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100178,
+    "station": "MUSKERA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100177,
+    "station": "MIRZAPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100176,
+    "station": "MILAK"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100175,
+    "station": "MAURANIPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100174,
+    "station": "MAHOBA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100173,
+    "station": "MAHMUDABAD"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100171,
+    "station": "LALITPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100170,
+    "station": "KOSIKALAN"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100179,
+    "station": "NAANPARA"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100180,
+    "station": "NAJIBABAD APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100181,
+    "station": "NAUGARH APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100189,
+    "station": "PURANPUR"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100187,
+    "station": "PRATAPGARH"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100186,
+    "station": "POWAYAN"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100185,
+    "station": "PARTAWAL"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100195,
+    "station": "ROBERTSGANJ"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100184,
+    "station": "PALIA KALAN"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100182,
+    "station": "NAUTANWA APMC"
+  },
+  {
+    "state_id": 30,
+    "states": "Uttar Pradesh",
+    "station_id": 100169,
+    "station": "KONCH"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100214,
+    "station": "WAZIRGANJ APMC"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100213,
+    "station": "URAI"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100225,
+    "station": "VIKASNAGAR"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100223,
+    "station": "ROORKEE"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100222,
+    "station": "RAMNAGAR"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100221,
+    "station": "NANAKMATTA"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100220,
+    "station": "KHATIMA"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100218,
+    "station": "JASPUR"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100219,
+    "station": "KASHIPUR"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100224,
+    "station": "SITARGANJ"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100217,
+    "station": "HALDWANI"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100216,
+    "station": "GADARPUR"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 100215,
+    "station": "BAZPUR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100231,
+    "station": "GANGARAMPUR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100241,
+    "station": "SHEORAPHULI"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100230,
+    "station": "FALAKATA"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100226,
+    "station": "BAGDA KRISHAK BAZAR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100232,
+    "station": "ISLAMPUR PRINCIPAL MARKET YARD"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100239,
+    "station": "SAMSHERGANJ KRISHAK BAZAR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100228,
+    "station": "BISHNUPUR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100240,
+    "station": "SAMSI SUB MARKET YARD"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100229,
+    "station": "DHUPGURI PRINCIPAL MARKET YARD"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100227,
+    "station": "BETHUADAHARI PRINCIPAL MARKET YARD"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100234,
+    "station": "KALNA SUB MARKET YARD"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100235,
+    "station": "KARIMPUR SUBMARKET YARD"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100238,
+    "station": "PANSKURA I KRISHAK BAZAR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100236,
+    "station": "MOHAMAD BAZAR KRISHAK BAZAR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100233,
+    "station": "JIYAGANJ KRISHAK BAZAR"
+  },
+  {
+    "state_id": 32,
+    "states": "West Bengal",
+    "station_id": 100237,
+    "station": "NAKASHIPARA KRISHAK BAZAR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100541,
+    "station": "TIRUMALGIRI"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100540,
+    "station": "TANDUR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100521,
+    "station": "KARIMNAGAR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100537,
+    "station": "SHANKARAPALLY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100538,
+    "station": "SIDDIPET"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100542,
+    "station": "VATPALLY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100543,
+    "station": "VIKARABAD"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100544,
+    "station": "WANAPARTHY ROAD"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100545,
+    "station": "WANAPARTHY TOWN"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100546,
+    "station": "ZAHEERABAD"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100502,
+    "station": "BADEPALLY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100523,
+    "station": "MADNOOR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100539,
+    "station": "SURYAPETA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100536,
+    "station": "SHADNAGAR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100535,
+    "station": "SADASIVPET"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100534,
+    "station": "PARKAL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100516,
+    "station": "JAGTIAL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100515,
+    "station": "HUSNABAD"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100514,
+    "station": "GUDIMALKAPUR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100513,
+    "station": "GOLLAPALLY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100512,
+    "station": "GANGADHARA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100511,
+    "station": "GAJWEL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100510,
+    "station": "GADWAL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100508,
+    "station": "ENKOOR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100507,
+    "station": "ECHODA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100506,
+    "station": "DEVARAKONDA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100505,
+    "station": "DEVARAKADRA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100504,
+    "station": "CHOPPADANDI"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100503,
+    "station": "BHAINSA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100501,
+    "station": "ATMAKUR"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100517,
+    "station": "JAMMIKUNTA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100518,
+    "station": "JANGAON"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100533,
+    "station": "PARGI"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100532,
+    "station": "NAWABPET"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100531,
+    "station": "NARSAMPET"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100530,
+    "station": "NARAYANPET"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100529,
+    "station": "NAKREKAL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100528,
+    "station": "NAGARKURNOOL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100527,
+    "station": "MIRYALAGUDA"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100526,
+    "station": "METPALLY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100525,
+    "station": "MAKTHAL"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100524,
+    "station": "MAHABUBABAD"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100509,
+    "station": "GADDIANNARAM"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100522,
+    "station": "KESAMUDRAM"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100520,
+    "station": "KAMAREDDY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100519,
+    "station": "KALWAKURTHY"
+  },
+  {
+    "state_id": 33,
+    "states": "Telangana",
+    "station_id": 100500,
+    "station": "ACHAMPET"
+  },
+  {
+    "state_id": 9,
+    "states": "Gujarat",
+    "station_id": 42654,
+    "station": "Gandhinagar"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 101039,
+    "station": "Subansiri Lower"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 101012,
+    "station": "KAMENG-Bichom Dam"
+  },
+  {
+    "state_id": 3,
+    "states": "Arunachal Pradesh",
+    "station_id": 101027,
+    "station": "RANGANADI"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101014,
+    "station": "KARCHAM WANGTOO"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101034,
+    "station": "SHANAN"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101017,
+    "station": "Kutehr"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101030,
+    "station": "SAINJ"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101018,
+    "station": "MALANA"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101023,
+    "station": "NATHPA JHAKRI"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101032,
+    "station": "SAWRA KUDDU"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101031,
+    "station": "SANJAY (BHABA)"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101019,
+    "station": "MALANA-II"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101000,
+    "station": "Allain Duhangan"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101011,
+    "station": "INTEGRATED KASHANG"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101002,
+    "station": "Bajoli Holi"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101003,
+    "station": "BASPA"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101004,
+    "station": "BUDHIL"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101005,
+    "station": "CHAMERA-III"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101006,
+    "station": "CHANJU-I"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101043,
+    "station": "Tidong-I"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101038,
+    "station": "Sorang"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101035,
+    "station": "Shongtong Karcham"
+  },
+  {
+    "state_id": 11,
+    "states": "Himachal Pradesh",
+    "station_id": 101026,
+    "station": "Parbati St. II"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101033,
+    "station": "SEWA-II"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101044,
+    "station": "UPPER SINDH-II"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101025,
+    "station": "Pakal Dul"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101001,
+    "station": "BAIRA SIUL"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101009,
+    "station": "DHAULIA GANGA"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101015,
+    "station": "Kiru"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101016,
+    "station": "KISHANGANGA"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 101024,
+    "station": "NIMOO BAZGO"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 101042,
+    "station": "TEESTA III"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 101041,
+    "station": "TASHIDING"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 101007,
+    "station": "CHUJACHEN"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 101029,
+    "station": "RONGNICHU"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 101010,
+    "station": "DIKCHU"
+  },
+  {
+    "state_id": 26,
+    "states": "Sikkim",
+    "station_id": 101028,
+    "station": "RANGIT"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101071,
+    "station": "Hemkund Sahib"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101072,
+    "station": "Jageshwar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101073,
+    "station": "Jeolikot"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101074,
+    "station": "Kanatal"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101087,
+    "station": "Valley Of Flowers"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101070,
+    "station": "Harsil"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101069,
+    "station": "Gwaldam"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101068,
+    "station": "Guptkashi"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101067,
+    "station": "Gopeshwar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101066,
+    "station": "Ghangaria"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101065,
+    "station": "Gangotri"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101075,
+    "station": "Kedarnath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101076,
+    "station": "Khirsu"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101077,
+    "station": "Lohaghat"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101086,
+    "station": "Udham Singh Nagar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101088,
+    "station": "Yamunotri"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101085,
+    "station": "Tanakpur"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101084,
+    "station": "Sattal"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101083,
+    "station": "Ranikhet"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101082,
+    "station": "Ramgarh"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101081,
+    "station": "Rajaji National Park"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101080,
+    "station": "Piran Kaliyar Sharif Dargah"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101079,
+    "station": "Munsiyari"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101078,
+    "station": "Madhyamaheshwar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101064,
+    "station": "Dharchula"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101063,
+    "station": "Dhanaulti"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101062,
+    "station": "Devprayag"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101049,
+    "station": "Asan Bird Sanctuary"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101048,
+    "station": "Abbott Mount"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101047,
+    "station": "Vyasi"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101046,
+    "station": "VISHNUPRAYAG"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101045,
+    "station": "Vishnugad Pipalkoti"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101040,
+    "station": "Tapovan Vishnugad"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101037,
+    "station": "SINGOLI BHATWARI"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101036,
+    "station": "SHRINAGAR"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101020,
+    "station": "MANERIBHALI-I"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101021,
+    "station": "MANERIBHALI-II (DHARASU)"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101050,
+    "station": "Auli"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101051,
+    "station": "Badrinath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101061,
+    "station": "Corbett National Park"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101060,
+    "station": "Chopta"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101059,
+    "station": "Chaukori"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101058,
+    "station": "Chamba"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101057,
+    "station": "Chakrata"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101056,
+    "station": "Binsar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101055,
+    "station": "Bhowali"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101054,
+    "station": "Bhimtal"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101053,
+    "station": "Baijnath"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101052,
+    "station": "Bageshwar"
+  },
+  {
+    "state_id": 31,
+    "states": "Uttrakhand",
+    "station_id": 101022,
+    "station": "Naitwar Mori"
+  },
+  {
+    "state_id": 35,
+    "states": "Ladakh UT",
+    "station_id": 101008,
+    "station": "CHUTAK"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 42963,
+    "station": "Bolangir"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 43048,
+    "station": "Chhatrapur"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 88833,
+    "station": "Nuapada"
+  },
+  {
+    "state_id": 23,
+    "states": "Orissa",
+    "station_id": 88834,
+    "station": "khordha"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88835,
+    "station": "Amarnath Holy Cave"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88836,
+    "station": "Panjtarni"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88837,
+    "station": "Baltal"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88838,
+    "station": "Sheshnag"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88839,
+    "station": "Chandanwari"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88840,
+    "station": "Ramban"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88841,
+    "station": "Samba"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88842,
+    "station": "Ramsu"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88843,
+    "station": "Shopian"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88844,
+    "station": "Bijbehara"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88845,
+    "station": "Pulwama"
+  },
+  {
+    "state_id": 12,
+    "states": "Jammu & Kashmir",
+    "station_id": 88846,
+    "station": "Sonemarg"
+  }
+]

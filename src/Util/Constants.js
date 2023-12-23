@@ -1,0 +1,5 @@
+export const EQUIPMENT_NAME = "eqipmentName"
+export const DEPARTMENT_TYPE = "departmentType"
+export const DEPARTMENT_NAME = "departmentName"
+export const EQUIPMENT_TYPE = "eqipmentType"
+export const EQUIPMENT_CATEGORY = "eqipmentCategory"

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036825045237",
+    "project_id": "dcra-532eb",
+    "storage_bucket": "dcra-532eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036825045237:android:b2413f4ff4186be24afdbc",
+        "android_client_info": {
+          "package_name": "com.dcra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036825045237-188q2cm66sui34gdpet638jbbtn186n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dcra",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1036825045237-5a0u0k9cr384o3r4ek7acuttk48mgitj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dcra",
+            "certificate_hash": "7e5b16bd0460035ab7685fb54266fa7a2771b1a5"
+          }
+        },
+        {
+          "client_id": "1036825045237-fk5roqvf665m8g9snrce0elh28mdmvam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUpiq2EKBCdCza-YcniCvfl4JW_na-5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036825045237-fk5roqvf665m8g9snrce0elh28mdmvam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
